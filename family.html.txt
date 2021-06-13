@@ -1,0 +1,100 @@
+<!DOCTYPE html>
+<head><title>family</title></head>
+<body>
+<header>
+<a href="index.html">
+<img src="img/background.jpg" height="200" width="1350">
+</a>
+</header>
+<hr>
+<nav>
+<table cellspacing="10" cellpadding="10">
+<tr>
+<td><a href="img/index.html">Home</a></td>
+<td><a href="img/biodata.html">Biodata</a></td>
+<td><a href="img/experience.html">Experience</a></td>
+<td><a href="img/education.html">Education</a></td>
+<td><a href="img/family.html">Family</a></td>
+<td><a href="img/gallery.html">Gallery</a></td>
+<td><a href="img/favouritethings.html">Favourite Things</a><td>
+</body>
+</tr>
+</table>
+</nav>
+<hr>
+<h2>My Family !</h2>
+
+<p>
+<p><strong>Here are my big happy family>.One of my sister is not in the picture.</strong></p>
+<header>
+<hr>
+<table>
+<tr>
+<td>
+<header>
+<body>
+<table border="1" width="45%" valign="middle" cellpading="4" cellspacing="4">
+<tr>
+<td colspan="6" align="center" bgcolor="black"><img src="img/FAMILY.jpg"></td>
+</tr>
+<tr align="center" bgcolor="pink">
+<th rowspan="14">MY FAMILY</th>
+<th>Name</th>
+<th>Relationship</th>
+</tr>
+<tr align="center">
+<td>Ismail Bin Darus</td>
+<td>Father</td>
+</tr>
+<tr align="center">
+<td>Romlah Binti Babji</td>
+<td>Mother</td>
+</tr>
+<tr align="center">
+<td>Norhidayatul Hayati</td>
+<td>Sister</td>
+</tr>
+<tr align="center">
+<td>Mohd Nizam</td>
+<td>Brother</td>
+</tr>
+<tr align="center">
+<td>Nor Suzana</td>
+<td>Sister</td>
+</tr>
+<tr align="center">
+<td>Nor Hasliza</td>
+<td>Sister</td>
+</tr>
+<tr align="center">
+<td>Nor Haslina</td>
+<td>Sister</td>
+</tr>
+<tr align="center">
+<td>Nor Amilia</td>
+<td>Sister</td>
+</tr>
+<tr align="center">
+<td>Nor Rizan</td>
+<td>Sister</td>
+</tr>
+<tr align="center">
+<td>Nor Azrin</td>
+<td>Sister</td>
+</tr>
+<tr align="center">
+<td>Mohd Ashraf</td>
+<td>Brother</td>
+</tr>
+<tr align="center">
+<td>Nur Azah Sakina</td>
+<td>Sister</td>
+</tr>
+<tr align="center">
+<td>Nur Fadhlin Atikah</td>
+<td>Sister</td>
+
+
+
+
+</body>

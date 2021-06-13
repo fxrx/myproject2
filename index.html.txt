@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<head><title>My Personal Website</title></head>
+<body>
+<header>
+<img src="img/background.jpg" height="200" width="1350">
+</header>
+<hr>
+<nav>
+<table cellspacing="10" cellpadding="10">
+<tr>
+<td><a href="img/index.html">Home</a></td>
+<td><a href="img/biodata.html">Biodata</a></td>
+<td><a href="img/experience.html">Experience</a></td>
+<td><a href="img/education.html">Education</a></td>
+<td><a href="img/family.html">Family</a></td>
+<td><a href="img/gallery.html">Gallery</a></td>
+<td><a href="img/favouritethings.html">Favourite Things</a><td>
+</tr>
+</table>
+</nav>
+<hr>
+<h2><center>Welcome to my website!</center></h2>
+
+<p>
+<center>Hai! My name is Nur Farahhanis Binti Ismail. Welcome to My Personal Website.</center>
+</p>
+<body>
+<hr>
+<img src="img/background1.jpg" alt="background" style="width:400px;height:550">
+<img src="img/farah 1.jpg" alt="background" style="width:400px;height:550">
+<img src="img/background1.jpg" alt="background" style="width:400px;height:550">
+
+
+<p><strong><center>Made with Love. Have fun looking at my website !</center></strong></p>
+<hr>

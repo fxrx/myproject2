@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<head><title>gallery</title></head>
+<body>
+<header>
+<a href="index.html">
+<img src="img/background.jpg" height="200" width="1350">
+</a>
+</header>
+<hr>
+<nav>
+<table cellspacing="10" cellpadding="10">
+<tr>
+<td><a href="img/index.html">Home</a></td>
+<td><a href="img/biodata.html">Biodata</a></td>
+<td><a href="img/experience.html">Experience</a></td>
+<td><a href="img/education.html">Education</a></td>
+<td><a href="img/family.html">Family</a></td>
+<td><a href="img/gallery.html">Gallery</a></td>
+<td><a href="img/favouritethings.html">Favourite Things</a><td>
+</tr>
+</table>
+</nav>
+<hr>
+<h2><center>My Gallery !</h2></center>
+
+<p>
+<center> Hi ! There are my lovely family pictures. </center>
+</p>
+<body>
+<hr>
+<center><img src="img/FAMILY.jpg" alt="background" style="width:400px;height:400"></center>
+<img src="img/kakak.jpeg" alt="background" style="width:400px;height:400">
+<img src="img/kakno.jpeg" alt="background" style="width:400px;height:400">
+<img src="img/emy.jpeg" alt="background" style="width:400px;height:400">"
+<img src="img/chaq.jpeg" alt="background" style="width:400px;height:750">
+<img src="img/bfdy.jpeg" alt="background" style="width:400px;height:750">
+<img src="img/bfdy2.jpeg" alt="background" style="width:400px;height:750">
+
+
+<p><strong><center>Made with Love. Have fun looking at my website !</center></strong></p>
+<hr>
+
+
+

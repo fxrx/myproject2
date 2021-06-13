@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<head><title>biodata</title></head>
+<body>
+<header>
+<a href="index.html">
+<img src="img/background.jpg" height="200" width="1350"> 
+</a>
+</header>
+<hr>
+<nav>
+<table cellspacing="10" cellpadding="10">
+<tr>
+<td><a href="index.html">Home</a></td>
+<td><a href="biodata.html">Biodata</a></td>
+<td><a href="experience.html">Experience</a></td>
+<td><a href="education.html">Education</a></td>
+<td><a href="img/family.html">Family</a></td>
+<td><a href="img/gallery.html">Gallery</a></td>
+<td><a href="img/favouritethings.html">Favourite Things</a><td>
+</tr>
+</table>
+</nav>
+<hr>
+<h2><center>My Biodata !</center></h2>
+
+<p>
+<p><strong><center>Here are my simple biodata video !</center></strong></p>
+<header>
+<center><embed src="img/biovideo.mp4" height="600" width="600" autoplay="true"></embed></center>
+
+<p><strong><center>Made with Love. Have fun looking at my website!</center></strong></p>
+<hr>
+
+</body>
